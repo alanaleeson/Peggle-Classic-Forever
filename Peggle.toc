@@ -1,4 +1,7 @@
-## Interface: 120100, 11509, 40402, 50504
+## Interface-Mainline: 120100
+## Interface-Classic: 11509
+## Interface-TBC: 20506
+## Interface-Mists: 50504
 ## Title: Peggle (Unofficial)
 ## Version: 2.4.2
 ## Notes: The popular game Peggle, now back in World of Warcraft Classic!

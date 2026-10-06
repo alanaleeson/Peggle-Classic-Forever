@@ -1,0 +1,34 @@
+## Interface: 120100, 11509, 40402, 50504
+## Title: Peggle (Unofficial)
+## Version: 2.4.2
+## Notes: The popular game Peggle, now back in World of Warcraft Classic!
+## Author: PopCap Games Inc.
+## SavedVariables: PeggleData
+## SavedVariablesPerCharacter: PeggleProfile
+## IconTexture: Interface\AddOns\Peggle\images\minimap
+## X-Curse-Project-ID: 338690
+## X-WoWI-ID: 24964
+## X-Wago-ID: ME6ggO61
+
+## Category: Minigames
+## Category-deDE: Minispiele
+## Category-esES: Minijuegos
+## Category-esMX: Minijuegos
+## Category-frFR: Mini-jeux
+## Category-itIT: Minigiochi
+## Category-koKR: 미니게임
+## Category-ptBR: Minijogos
+## Category-ruRU: Мини-игры
+## Category-zhCN: 迷你游戏
+## Category-zhTW: 迷你遊戲
+
+#@no-lib-strip@
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\lib.xml
+#@end-no-lib-strip@
+
+Levels.lua
+Peggle.lua
+Icon.lua
